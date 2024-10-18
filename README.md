@@ -15,10 +15,9 @@
 
 💬 Ask me about **SQL, Python, ... or anything [here](https://github.com/Amjadadam1/Amjadadam1)**
 
-⚡  Joke** :Why did the developer go broke?
-
-Because he kept pushing to GitHub but never pulled any money out!**
-if you laughed give me a star ** 
+⚡  I am always eager to embrace new challenges and opportunities in the field of data analysis,
+<br>
+and I look forward to contributing to dynamic projects where my skills can make a significant impact. 
 
 <div align="center"> 
   <a href="amjaabdu030@gmail.com">
