@@ -20,7 +20,7 @@
 and I look forward to contributing to dynamic projects where my skills can make a significant impact. 
 
 <div align="center"> 
-  <a href="amjaabdu030@gmail.com">
+  <a href="mailto:amjabdu030@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
