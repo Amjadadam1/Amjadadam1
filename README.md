@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Apis, AWS**
 
-💬 Ask me about **SQL, Python, ... or anything [here](https://github.com/Amjadadam1)**
+💬 Ask me about **SQL, Python, ... or anything  about Data **
 
 ⚡  I am always eager to embrace new challenges and opportunities in the field of data analysis,
 <br>
