@@ -63,7 +63,7 @@ and I look forward to contributing to dynamic projects where my skills can make 
 
 <br/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks for visiting +👋;+GOOD'BYE!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=!+👋;+GOOD'BYE!;" />
 
 <!--
 **Amjadadam1/Amjadadam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
